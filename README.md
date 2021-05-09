@@ -17,3 +17,9 @@
 ### 使用
 客户端安装ca.crt
 服务端使用server.crt,server.key
+
+
+### 参考
+[https://www.jianshu.com/p/81dbcde4fd7c](https://www.jianshu.com/p/81dbcde4fd7c)
+
+[https://gist.github.com/croxton/ebfb5f3ac143cd86542788f972434c96](https://gist.github.com/croxton/ebfb5f3ac143cd86542788f972434c96)
